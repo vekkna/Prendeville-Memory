@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Prendeville Memory.CSharp", "UnityVS.Prendeville Memory.CSharp.csproj", "{B8FB7A60-9EFA-BAB9-FB84-93EFDB1F78AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Prendeville Memory.CSharp.Editor", "UnityVS.Prendeville Memory.CSharp.Editor.csproj", "{1EFE5A67-7FE3-C6BD-CD62-624B9F007992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FB7A60-9EFA-BAB9-FB84-93EFDB1F78AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FB7A60-9EFA-BAB9-FB84-93EFDB1F78AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FB7A60-9EFA-BAB9-FB84-93EFDB1F78AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FB7A60-9EFA-BAB9-FB84-93EFDB1F78AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFE5A67-7FE3-C6BD-CD62-624B9F007992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFE5A67-7FE3-C6BD-CD62-624B9F007992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFE5A67-7FE3-C6BD-CD62-624B9F007992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFE5A67-7FE3-C6BD-CD62-624B9F007992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

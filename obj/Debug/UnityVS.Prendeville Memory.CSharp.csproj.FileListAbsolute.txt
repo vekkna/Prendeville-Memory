@@ -1,0 +1,13 @@
+D:\Users\vekkna\Documents\Prendeville Memory\obj\Debug\UnityVS.Prendeville Memory.CSharp.csprojResolveAssemblyReference.cache
+D:\Users\vekkna\Documents\Prendeville Memory\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Users\vekkna\Documents\Prendeville Memory\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Users\vekkna\Documents\Prendeville Memory\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Users\vekkna\Documents\Prendeville Memory\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Users\vekkna\Documents\Prendeville Memory\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Users\vekkna\Documents\Prendeville Memory\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Users\vekkna\Documents\Prendeville Memory\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Users\vekkna\Documents\Prendeville Memory\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Users\vekkna\Documents\Prendeville Memory\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Users\vekkna\Documents\Prendeville Memory\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Users\vekkna\Documents\Prendeville Memory\obj\Debug\Assembly-CSharp.dll
+D:\Users\vekkna\Documents\Prendeville Memory\obj\Debug\Assembly-CSharp.pdb
